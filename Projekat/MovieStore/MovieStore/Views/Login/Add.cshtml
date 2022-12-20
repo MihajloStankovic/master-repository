@@ -1,0 +1,55 @@
+﻿<link rel="stylesheet" href="~/css/login.css">
+
+@{
+    ViewData["Title"] = "Add a movie";
+}
+
+@model Movie
+
+<div class="container justify-content-center mt-4" style="display: flex; flex-wrap: wrap; width: 1200px;">
+<form method="post" class="form-control-sm" style="width: 500px;">
+    <div class="container border p-3 mt-4 rounded-3 justify-content-center" style="background-color: ghostwhite;">
+        <div asp-validation-summary="All"></div>
+
+        <div class="row pb-2">
+            <h2 class="text-primary text-center"> Add a Movie </h2>
+            <hr />
+        </div>
+
+        <div class="mb-3">
+            <label> Director </label>
+            <input type="text" asp-for="Director" class="form-control" />
+            <span asp-validation-for="Director" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label> Movie Name </label>
+            <input type="text" asp-for="MovieName" class="form-control" />
+            <span asp-validation-for="MovieName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label> Genre </label>
+            <input type="text" asp-for="Genre" class="form-control" />
+            <span asp-validation-for="Genre" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label> Release Date </label>
+            <input type="text" asp-for="releaseDate" class="form-control" />
+            <span asp-validation-for="releaseDate" class="text-danger"></span>
+        </div>
+
+        <div class="container text-center justify-content-evenly mt-4">
+            <button type="submit" class="btn btn-primary" style="width:150px"> Add </button>
+        <a asp-controller="Login" asp-action="Index" class="btn btn-secondary style="width:150px"> Back to the List </a>
+        </div>
+    </div>
+</form>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

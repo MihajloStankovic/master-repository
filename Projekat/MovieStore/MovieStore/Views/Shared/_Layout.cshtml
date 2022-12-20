@@ -1,0 +1,68 @@
+﻿@using MovieStore.Areas.Identity.Data;
+<link rel="stylesheet" href="~/css/navbar.css">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MovieStore</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MovieStore.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+
+        <nav class="navbar navbar-expand navbar-toggleable-sm navbar-light box-shadow mb-3 py-md-3 border-top border-bottom border-dark" style="background-color: rgba(53,114,153,255)">
+            <div class="container-fluid">
+                <ul class="navbar-nav flex-grow-1">
+                   
+                @if (User.IsInRole(Roles.Role_Admin) || User.IsInRole(Roles.Role_Employee) || User.IsInRole(Roles.Role_User))
+                {
+                   <li class="nav-item">
+                    <a class="navbar-brand text-white" asp-area="" asp-controller="Login" asp-action="Index">Movie Store</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                   </li>
+                }
+                
+                @if (User.IsInRole(Roles.Role_Admin))
+                {                                      
+                        <li class="nav-item">
+                            <a class="navbar-brand text-white rounded-3" asp-area="" asp-controller="Login" asp-action="Add">Add a movie</a>                               
+                        </li>
+                                                
+                        <li class="nav-item">
+                            <a class="navbar-brand text-white rounded-3" asp-area="" asp-controller="Admin" asp-action="Users"> Users </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="navbar-brand text-white rounded-3" asp-area="" asp-controller="Admin" asp-action="Roles"> Roles </a>
+                        </li>                                                                                                                                              
+                }
+                </ul>
+                <partial name="_LoginPartial"/>
+            </div>
+        </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer text-white border-top border-bottom border-dark" style="background-color: rgba(53,114,153,255)">
+        <div class="container text-center text-white">
+            &copy; 2022 - Movie Store
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

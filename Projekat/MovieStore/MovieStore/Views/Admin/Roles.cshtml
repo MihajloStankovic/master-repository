@@ -1,0 +1,29 @@
+﻿@using MovieStore.Areas.Identity.Data;
+@model List<UserRolesViewModel>
+
+@{
+    ViewData["Title"] = "Roles";
+}
+
+<link rel="stylesheet" href="~/css/login.css">
+
+<div class="container text-center justify-content-evenly mt-4" style="display: flex; flex-wrap: wrap;">
+
+@foreach (var userModel in Model)
+{
+    <div class="card mb-3 text-center" style="width: 500px;">
+        <div class="card-header" style="background-color: ghostwhite;"> User Name: @userModel.UserName | User Id: @userModel.UserId </div>
+        <a asp-action="AddRole" asp-controller="Admin" asp-route-id="@userModel.UserId" class="btn btn-outline-primary btn-sm mx-auto mt-3" style="width: 100px;"> Add Role </a>
+        <div class="card-body">         
+            @foreach(var userRole in userModel.UserRoles)
+            {
+            <h5 class="card-title"> @userRole </h5>
+                <div class="card-footer" style="background-color: ghostwhite;">
+                        <a asp-action="DeleteRole" asp-controller="Admin" asp-route-id="@userModel.UserId" class="btn btn-outline-danger btn-sm mx-auto" style="width: 100px;"> Delete Role </a>
+                </div>
+            }
+        </div>
+    </div>
+}
+</div>
+

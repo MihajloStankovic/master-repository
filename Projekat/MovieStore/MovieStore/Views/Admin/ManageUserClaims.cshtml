@@ -1,0 +1,37 @@
+﻿@model UserClaimsViewModel
+
+@{
+    ViewData["Title"] = "Manage User Claims";
+}
+
+<link rel="stylesheet" href="~/css/login.css">
+
+<div class="container justify-content-center mt-5" style="display: flex;">
+<form method="post">
+        <div class="card" style="width: 500px;">
+            <div class="card-header" style="background-color: ghostwhite;">
+            <h2 class="text-center text-primary"> Manage User Claims </h2>
+        </div>
+
+        <div class="card-body">
+
+            @for (int i = 0; i < Model.UserClaims.Count; i++)
+            {
+                <div class="form-check m-1">
+                    <input type="hidden" asp-for="@Model.UserId" />
+                    <input type="hidden" asp-for="@Model.UserClaims[i].ClaimType" />
+                    <input asp-for="@Model.UserClaims[i].isSelected" class="form-check-input" />
+                    <label asp-for="@Model.UserClaims[i].isSelected" class="form-check-label"> @Model.UserClaims[i].ClaimType </label>
+                </div>
+            }
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+        </div>
+
+            <div class="card-footer text-center justify-content-evenly" style="background-color: ghostwhite;">
+            <button type="submit" class="btn btn-primary" style="width:auto"> Update </button>
+            <a asp-action="Users" asp-route-id="@Model.UserId" class="btn btn-secondary" style="width:auto"> Cancel </a>
+        </div>
+    </div>
+</form>
+</div>

@@ -1,0 +1,9 @@
+﻿#picture:hover {
+    opacity: 0.8;
+}
+
+body {
+    background-image: url('../Images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

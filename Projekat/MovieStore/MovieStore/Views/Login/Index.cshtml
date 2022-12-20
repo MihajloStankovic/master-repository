@@ -1,0 +1,32 @@
+﻿@using MovieStore.Areas.Identity.Data;
+<link rel="stylesheet" href="~/css/login.css">
+
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+@model List<Movie>
+
+<div class="container text-center mt-4" style="display: flex; flex-wrap: wrap; width: 1000px;">
+    @foreach(var movie in Model)
+    {
+        var imgPath = string.Format(@".\Images/{0}.png", movie.MovieName);
+
+        <div class="col-sm-4 mb-3">
+            <div class="card mb-5 border-5 border-secondary" style="width: 280px; height: 395px;">
+         
+                <a asp-controller="Login" asp-action="Edit" asp-route-id="@movie.Id">                  
+                    <img id="picture" src=@imgPath class="w-100"/>
+                </a>
+               
+                @if (User.IsInRole(Roles.Role_Admin))
+                {
+                <a asp-controller="Login" asp-action="Delete" asp-route-id="@movie.Id" class="btn btn-danger btn-sm mx-auto mt-2" style="width: 100px;"> Delete </a>
+                }       
+        <div class="card-body">      
+        </div>
+            
+      </div>
+    </div>
+    }
+</div>

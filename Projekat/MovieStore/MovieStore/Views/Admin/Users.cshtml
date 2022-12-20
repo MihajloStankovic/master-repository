@@ -1,0 +1,28 @@
+﻿@using MovieStore.Areas.Identity.Data;
+@model IEnumerable<ApplicationUser>
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<link rel="stylesheet" href="~/css/login.css">
+
+<div class="container text-center justify-content-evenly mt-4" style="display: flex; flex-wrap: wrap; width: 1200px;">
+
+ @foreach (var user in Model)
+    {
+    <div class="card mb-3 text-center" style="width: 500px;">
+      <div class="card-header" style="background-color: ghostwhite;">
+        User Id : @user.Id
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@user.UserName</h5>
+    </div>
+      <div class="card-footer" style="background-color: ghostwhite;">
+        <a asp-action="ManageUserClaims" asp-controller="Admin" asp-route-id="@user.Id" class="btn btn-outline-primary"> Manage User Claims </a>
+        <a asp-action="Delete" asp-controller="Admin" asp-route-id="@user.Id" class="btn btn-outline-danger"> Delete User </a>
+    </div>
+</div>
+    }
+</div>
+

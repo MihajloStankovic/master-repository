@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Aladdin.png",
+      "PackagePath": "staticwebassets\\Images\\Aladdin.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Amsterdam.png",
+      "PackagePath": "staticwebassets\\Images\\Amsterdam.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Avatar_2_-_The_Way_of_Water.png",
+      "PackagePath": "staticwebassets\\Images\\Avatar_2_-_The_Way_of_Water.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Black_Adam.png",
+      "PackagePath": "staticwebassets\\Images\\Black_Adam.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Disenchanted.png",
+      "PackagePath": "staticwebassets\\Images\\Disenchanted.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Image Cards.psd",
+      "PackagePath": "staticwebassets\\Images\\Image Cards.psd"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Mission_Impossible_7.png",
+      "PackagePath": "staticwebassets\\Images\\Mission_Impossible_7.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Mulan.png",
+      "PackagePath": "staticwebassets\\Images\\Mulan.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Snow_White.png",
+      "PackagePath": "staticwebassets\\Images\\Snow_White.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Spy_Kids_3.png",
+      "PackagePath": "staticwebassets\\Images\\Spy_Kids_3.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Strange_World.png",
+      "PackagePath": "staticwebassets\\Images\\Strange_World.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\The_Little_Mermaid.png",
+      "PackagePath": "staticwebassets\\Images\\The_Little_Mermaid.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Thor_4_-_Love_and_Thunder.png",
+      "PackagePath": "staticwebassets\\Images\\Thor_4_-_Love_and_Thunder.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\Ticket_to_Paradise.png",
+      "PackagePath": "staticwebassets\\Images\\Ticket_to_Paradise.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\avatar_background.png",
+      "PackagePath": "staticwebassets\\Images\\avatar_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\avatar_background1.png",
+      "PackagePath": "staticwebassets\\Images\\avatar_background1.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\background.jpg",
+      "PackagePath": "staticwebassets\\Images\\background.jpg"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\background2.jpg",
+      "PackagePath": "staticwebassets\\Images\\background2.jpg"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\background3.jpg",
+      "PackagePath": "staticwebassets\\Images\\background3.jpg"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\login_background.png",
+      "PackagePath": "staticwebassets\\Images\\login_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\register1_background.png",
+      "PackagePath": "staticwebassets\\Images\\register1_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\register2_background.png",
+      "PackagePath": "staticwebassets\\Images\\register2_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\register3_background.png",
+      "PackagePath": "staticwebassets\\Images\\register3_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\register4_background.png",
+      "PackagePath": "staticwebassets\\Images\\register4_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\register_background.png",
+      "PackagePath": "staticwebassets\\Images\\register_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\Images\\welcome_background.png",
+      "PackagePath": "staticwebassets\\Images\\welcome_background.png"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\css\\home_background.css",
+      "PackagePath": "staticwebassets\\css\\home_background.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\css\\login_background.css",
+      "PackagePath": "staticwebassets\\css\\login_background.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\css\\register_background.css",
+      "PackagePath": "staticwebassets\\css\\register_background.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\css\\welcome_background.css",
+      "PackagePath": "staticwebassets\\css\\welcome_background.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Elektronski fakultet\\Master studije\\I semestar\\Napredno softversko inzenjerstvo\\MovieStore\\MovieStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieStore.props",
+      "PackagePath": "build\\MovieStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieStore.props",
+      "PackagePath": "buildMultiTargeting\\MovieStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieStore.props",
+      "PackagePath": "buildTransitive\\MovieStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
